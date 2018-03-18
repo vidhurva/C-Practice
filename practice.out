@@ -1,0 +1,21 @@
+
+Question 1
+Enter a number for n : 3
+There are 3 ways of climbing the stairs
+
+Question 2
+arr[] =   1  2  3  3  4  5 10
+The first index of 3 is : 2
+
+Question 3
+Rotated array [] =   4  5  1  2  3
+Original array [] =   1  2  3  4  5
+
+Question 4
+K'th smallest element is: 3
+
+Question 5
+Given array {4, 5, 1, 2, 3} 
+The median of the array is: 3
+Given array {7, 9, 4, 5} 
+The median of the array is: 5
